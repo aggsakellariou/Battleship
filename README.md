@@ -59,18 +59,6 @@ The spaceship game is a simple arcade-style game where you control a spaceship a
 - **Arrow keys**: Control the movement of the spaceship.
 - **Esc**: Pause or exit the game.
 
-## Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-Feel free to check the issues page for known issues or feature requests.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
