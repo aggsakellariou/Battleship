@@ -9,7 +9,6 @@ A classic Battleship game implemented using Windows Forms (C#). The game allows 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
