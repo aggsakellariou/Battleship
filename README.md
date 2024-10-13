@@ -8,8 +8,6 @@ A classic Battleship game implemented using Windows Forms (C#). The game allows 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Gameplay](#gameplay)
-- [License](#license)
 
 ## Features
 
@@ -48,20 +46,3 @@ A classic Battleship game implemented using Windows Forms (C#). The game allows 
 - Place your ships on the grid by selecting locations.
 - Take turns with an opponent to fire at enemy coordinates.
 - The game ends when all of one player's ships are destroyed.
-
-## Gameplay
-
-The game follows traditional Battleship rules:
-
-1. Each player has a grid for placing their fleet of ships.
-2. Players take turns calling out shots to try and hit the opponent’s ships.
-3. The game continues until one player sinks all the opponent’s ships.
-
-### Controls:
-
-- **Mouse**: Use to place ships and select grid coordinates for firing.
-- **Buttons**: Use on-screen buttons to start the game, reset, or exit.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
