@@ -28,7 +28,7 @@ A classic Battleship game implemented using Windows Forms (C#). The game allows 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/battleship-game.git
+    git clone https://github.com/aggsakellariou/battleship-game.git
     ```
 
 2. Open the solution file (`Game1.sln`) using Visual Studio.
